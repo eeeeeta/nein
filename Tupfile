@@ -1,0 +1,1 @@
+: nein.c |> gcc nein.c -o nein |> nein
